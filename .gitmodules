@@ -7,3 +7,6 @@
 [submodule "cyberzone"]
 	path = cyberzone
 	url = https://gitlab.com/tvez01/cyberzone.git
+[submodule "blackjack"]
+	path = blackjack
+	url = https://gitlab.com/tvez01/blackjack.git
