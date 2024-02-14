@@ -1,0 +1,3 @@
+[submodule "lmg-2048"]
+	path = lmg-2048
+	url = https://gitlab.com/mcoronel814/lmg-2048.git
