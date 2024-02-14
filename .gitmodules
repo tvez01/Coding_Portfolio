@@ -1,3 +1,6 @@
 [submodule "lmg-2048"]
 	path = lmg-2048
 	url = https://gitlab.com/mcoronel814/lmg-2048.git
+[submodule "kings-conquer"]
+	path = kings-conquer
+	url = https://gitlab.com/tvez01/kings-conquer.git
