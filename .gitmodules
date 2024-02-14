@@ -4,3 +4,6 @@
 [submodule "kings-conquer"]
 	path = kings-conquer
 	url = https://gitlab.com/tvez01/kings-conquer.git
+[submodule "cyberzone"]
+	path = cyberzone
+	url = https://gitlab.com/tvez01/cyberzone.git
